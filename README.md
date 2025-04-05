@@ -11,15 +11,16 @@ This repository demonstrates the use of Dockerfiles for containerizing applicati
 
 ## Screenshots
 
-![[Pasted image 20250405234131.png]]
+![[attachments/Pasted image 20250405234131.png]]
 
-![[Pasted image 20250405234238.png]]
 
-![[Pasted image 20250405234258.png]]
+![[attachments/Pasted image 20250405234238.png]]
 
-![[Pasted image 20250405234351.png]]
+![[attachments/Pasted image 20250405234258.png]]
 
-![[Pasted image 20250405234434.png]]
+![[attachments/Pasted image 20250405234351.png]]
+
+![[attachments/Pasted image 20250405234434.png]]
 
 ## Getting Started
 
